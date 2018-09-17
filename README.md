@@ -1,1 +1,1 @@
-# spider1 studying
+studying
